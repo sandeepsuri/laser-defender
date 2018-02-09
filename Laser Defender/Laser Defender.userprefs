@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../DMS_v1.0/Assets/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="../DMS_v1.0/Assets/Scripts/PlayerController.cs" Line="13" Column="25" />
+      <File FileName="../Block Breaker/Assets/Scripts/Paddle.cs" Line="27" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
